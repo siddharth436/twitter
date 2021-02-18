@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](images/Assignment_3)
+![](image/Assignment_3.gif)
 
