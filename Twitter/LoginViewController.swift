@@ -1,11 +1,4 @@
-//
-//  LoginViewController.swift
-//  Twitter
-//
-//  Created by Kavya Ravella on 2/17/21.
-//  Copyright © 2021 Dan. All rights reserved.
-//
-
+        
 import UIKit
 
 class LoginViewController: UIViewController {
