@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](image/Podfiles.gif)
+![](image/Podfile.gif)
 
 
 # Project 3 - Twitter Part I
